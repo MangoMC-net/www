@@ -1,0 +1,2 @@
+# www
+ 🌐 Homepage for MangoMC
