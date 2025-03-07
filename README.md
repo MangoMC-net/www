@@ -14,14 +14,5 @@ If you are developing a production application, we recommend using TypeScript an
 ## Development
 
 ```
-git clone https://github.com/MangoMC-net/www
-```
-```
-cd www
-```
-```
-npm install
-```
-```
-npm run dev
+git clone https://github.com/MangoMC-net/www && cd www && npm install && npm run dev
 ```
