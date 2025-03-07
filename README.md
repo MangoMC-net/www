@@ -17,6 +17,9 @@ If you are developing a production application, we recommend using TypeScript an
 git clone https://github.com/MangoMC-net/www
 ```
 ```
+cd www
+```
+```
 npm install
 ```
 ```
